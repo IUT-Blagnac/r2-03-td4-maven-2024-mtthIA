@@ -1,0 +1,55 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'C:/Users/Etudiant/github-classroom/IUT-Blagnac/r2-03-td4-maven-2024-mtthIA/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Etudiant/github-classroom/IUT-Blagnac/r2-03-td4-maven-2024-mtthIA/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'tp_qualite 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Etudiant/github-classroom/IUT-Blagnac/r2-03-td4-maven-2024-mtthIA/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp_qualite 1.0 API'
+'C:/Users/Etudiant/github-classroom/IUT-Blagnac/r2-03-td4-maven-2024-mtthIA/src/main/java/ClasseEssai.java'
+'C:/Users/Etudiant/github-classroom/IUT-Blagnac/r2-03-td4-maven-2024-mtthIA/src/main/java/HelloJava.java'
+'C:/Users/Etudiant/github-classroom/IUT-Blagnac/r2-03-td4-maven-2024-mtthIA/src/main/java/Pile.java'
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\src\main\java\ClasseEssai.java = 1708967460087
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\src\main\java\HelloJava.java = 1708967136072
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\src\main\java\Pile.java = 1708967384179
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\src\main\java = 1708967346967
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\allclasses-index.html = 1708968216891
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\allpackages-index.html = 1708968216895
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\ClasseEssai.html = 1708968216806
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\element-list = 1708968216831
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\help-doc.html = 1708968216929
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\index-all.html = 1708968216919
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\index.html = 1708968216922
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\jquery-ui.overrides.css = 1708968216976
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\member-search-index.js = 1708968216902
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\module-search-index.js = 1708968216897
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\overview-tree.html = 1708968216872
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\package-search-index.js = 1708968216899
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\package-summary.html = 1708968216844
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\package-tree.html = 1708968216850
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\package-use.html = 1708968216867
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\Pile.html = 1708968216828
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\script.js = 1708968216935
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\search.js = 1708968216939
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\stylesheet.css = 1708968216933
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\tag-search-index.js = 1708968216903
+C:\Users\Etudiant\github-classroom\IUT-Blagnac\r2-03-td4-maven-2024-mtthIA\target\site\apidocs\type-search-index.js = 1708968216900
